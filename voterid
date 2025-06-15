@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Voter ID Laws Explained – The 19th</title>
+  <link rel="stylesheet" href="voter-id.css" />
+</head>
+<body>
+
+  <header class="hero">
+    <h1>Voter ID Laws Explained</h1>
+    <p>Understanding what voter ID laws are, where they apply, and how they affect access to the ballot.</p>
+  </header>
+
+  <main class="content">
+
+    <section class="intro">
+      <h2>What Are Voter ID Laws?</h2>
+      <p>Voter ID laws require individuals to present government-issued identification in order to vote. These laws vary significantly by state in terms of strictness, accepted forms of ID, and exceptions.</p>
+    </section>
+
+    <section class="timeline">
+      <h2>How These Laws Have Changed Over Time</h2>
+      <img src="voter-id-timeline.png" alt="Timeline of voter ID law changes since 2000" />
+      <p class="caption">A rise in ID requirements followed the 2000 and 2012 elections.</p>
+    </section>
+
+    <section class="map">
+      <h2>Where Are Voter ID Laws in Effect?</h2>
+      <img src="voter-id-map.png" alt="U.S. map showing voter ID law status by state" />
+      <p class="caption">States in dark purple have strict voter ID laws; lighter shades represent less strict policies.</p>
+    </section>
+
+    <section class="download-brief">
+      <h2>Need More Context?</h2>
+      <p>Download our brief that breaks down the history, debates, and voter access concerns surrounding ID laws.</p>
+      <a href="voter-id-brief.pdf" class="btn" download>📄 Download Brief (PDF)</a>
+    </section>
+
+    <section class="newsletter">
+      <h3>📬 Stay informed about voting rights</h3>
+      <form>
+        <input type="email" placeholder="Your email address" required />
+        <button type="submit">Sign Up</button>
+      </form>
+    </section>
+
+  </main>
+
+  <footer class="footer-cta">
+    <p>Produced by The 19th — independent journalism on gender, politics, and policy.</p>
+  </footer>
+
+</body>
+</html>
